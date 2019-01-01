@@ -10,9 +10,9 @@ Follow examples in main.py from the repository
 
 
 ### Prerequisites
-Neopixels/ws2812b strip
-NodeMCU or ESP32
-Basic knowledge of electronics
+* Neopixels/ws2812b strip
+* NodeMCU or ESP32
+* Basic knowledge of electronics
 
 
 ## Guide to get started with micropython on ESP8266
