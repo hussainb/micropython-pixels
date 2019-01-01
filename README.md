@@ -5,8 +5,9 @@ Micropython classes to animate neopixels
 ## Getting Started
 
 Upload the pixel.py to your device using uPyCraft IDE
-import pixel in your main.py
-follow examples in main.py from the repository
+Import pixel in your main.py
+Follow examples in main.py from the repository
+
 
 ### Prerequisites
 Neopixels/ws2812b strip
@@ -66,6 +67,8 @@ p2 = PixelFadeInOut(1, 0, 0, 255, 255, 192, 203, 200, 30)
 	
 The Object p2 now has a method `next()` which when called updates the neopixel LED with its next state
 
+
+* Refer **main.py** from the repository for implementation and examples.
 
 
 ## Authors
