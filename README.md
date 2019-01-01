@@ -26,8 +26,10 @@ import pixel
 ```
 The module exposes the below two classes
 
-* PixelBlink
+* **PixelBlink**
+
 Initialize an Object as shown below
+
 ```
 p1 = PixelBlink(0, 255, 165, 0, 700)
     """
@@ -42,8 +44,10 @@ p1 = PixelBlink(0, 255, 165, 0, 700)
 The Object p1 now has a method `next()` which when called updates the neopixel LED with its next state
 
 
-* PixelFadeInOut
+* **PixelFadeInOut**
+
 Initialize an Object as shown below
+
 ```
 p2 = PixelFadeInOut(1, 0, 0, 255, 255, 192, 203, 200, 30)
     """
